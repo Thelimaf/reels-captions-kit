@@ -1,0 +1,35 @@
+{
+  "clip": "locucao_demo_pt.wav",
+  "duration": 10.8,
+  "text": "O verdadeiro segredo dos vídeos que viralizam todo dia não é sorte, é prender a atenção nos três primeiros segundos com uma legenda dinâmica impossível de ignorar.",
+  "words": [
+    {"word": "O", "start": 0.20, "end": 0.32},
+    {"word": "verdadeiro", "start": 0.32, "end": 0.82},
+    {"word": "segredo", "start": 0.82, "end": 1.35},
+    {"word": "dos", "start": 1.35, "end": 1.52},
+    {"word": "vídeos", "start": 1.52, "end": 1.95},
+    {"word": "que", "start": 1.95, "end": 2.10},
+    {"word": "viralizam", "start": 2.10, "end": 2.68},
+    {"word": "todo", "start": 2.68, "end": 2.95},
+    {"word": "dia", "start": 2.95, "end": 3.35},
+    {"word": "não", "start": 3.80, "end": 4.02},
+    {"word": "é", "start": 4.02, "end": 4.15},
+    {"word": "sorte,", "start": 4.15, "end": 4.65},
+    {"word": "é", "start": 5.10, "end": 5.25},
+    {"word": "prender", "start": 5.25, "end": 5.68},
+    {"word": "a", "start": 5.68, "end": 5.78},
+    {"word": "atenção", "start": 5.78, "end": 6.35},
+    {"word": "nos", "start": 6.35, "end": 6.55},
+    {"word": "três", "start": 6.55, "end": 6.85},
+    {"word": "primeiros", "start": 6.85, "end": 7.35},
+    {"word": "segundos", "start": 7.35, "end": 7.95},
+    {"word": "com", "start": 8.15, "end": 8.32},
+    {"word": "uma", "start": 8.32, "end": 8.50},
+    {"word": "legenda", "start": 8.50, "end": 9.00},
+    {"word": "dinâmica", "start": 9.00, "end": 9.55},
+    {"word": "impossível", "start": 9.55, "end": 10.10},
+    {"word": "de", "start": 10.10, "end": 10.22},
+    {"word": "ignorar.", "start": 10.22, "end": 10.75}
+  ]
+}
+

@@ -1,0 +1,41 @@
+[
+ {
+  "kind": "lockup",
+  "above": "o verdadeiro",
+  "main": "segredo",
+  "below": "dos vídeos virais",
+  "dur": 1.8
+ },
+ {
+  "kind": "lockup",
+  "above": "prender a",
+  "main": "atenção",
+  "dur": 1.7
+ },
+ {
+  "kind": "lockup",
+  "above": "o problema não é o seu",
+  "main": "conteúdo",
+  "dur": 1.8
+ },
+ {
+  "kind": "lockup",
+  "above": "é contar na",
+  "main": "ordem",
+  "below": "certa",
+  "dur": 1.7
+ },
+ {
+  "kind": "lockup",
+  "above": "aquele café",
+  "main": "quentinho",
+  "below": "pra você",
+  "dur": 1.7
+ },
+ {
+  "kind": "lockup",
+  "above": "me chama na",
+  "main": "DM",
+  "dur": 1.8
+ }
+]

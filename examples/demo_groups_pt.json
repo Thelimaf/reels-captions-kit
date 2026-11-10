@@ -1,0 +1,7 @@
+[
+  {"kind": "lockup", "above": "O verdadeiro", "main": "segredo", "below": "dos vídeos virais", "t0": 0.0, "t1": 1.6, "accent": true},
+  {"kind": "plain", "text": "não é sorte nem equipamento caro", "t0": 1.65, "t1": 3.1},
+  {"kind": "lockup", "above": "é prender a", "main": "atenção", "below": "nos 3 primeiros segundos", "t0": 3.15, "t1": 4.8, "accent": true},
+  {"kind": "lockup", "above": "quando o", "main": "design", "below": "acompanha o ritmo", "t0": 4.85, "t1": 6.4, "accent": false},
+  {"kind": "lockup", "above": "a sua", "main": "retenção", "below": "dobra na hora", "t0": 6.45, "t1": 8.1, "accent": true}
+]
