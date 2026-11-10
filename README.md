@@ -1,4 +1,4 @@
-# Subtitles Studio
+# Reels Captions Kit (Subtitles Studio)
 
 Legendas dinâmicas estilo **Lockup** para Reels, TikTok e Shorts: uma palavra gigante no centro com as palavras de apoio encaixadas nos vãos reais das letras, animadas com GSAP e prontas para o **[HyperFrames](https://github.com/heygen-com/hyperframes)**.
 
@@ -20,13 +20,13 @@ Requisitos: Python 3.9+, [ffmpeg](https://ffmpeg.org/) e Node.js (o HyperFrames 
 
 ```bash
 # macOS / Linux
-git clone https://github.com/SEU_USUARIO/subtitles-studio ~/.claude/skills/subtitles-studio
+git clone https://github.com/Thelimaf/reels-captions-kit ~/.claude/skills/subtitles-studio
 pip install -r ~/.claude/skills/subtitles-studio/requirements.txt
 ```
 
 ```powershell
 # Windows (PowerShell)
-git clone https://github.com/SEU_USUARIO/subtitles-studio "$env:USERPROFILE\.claude\skills\subtitles-studio"
+git clone https://github.com/Thelimaf/reels-captions-kit "$env:USERPROFILE\.claude\skills\subtitles-studio"
 pip install -r "$env:USERPROFILE\.claude\skills\subtitles-studio\requirements.txt"
 ```
 
@@ -35,8 +35,8 @@ Abra uma conversa nova no Claude Code. A skill aparece como `/subtitles-studio` 
 ### Só como CLI
 
 ```bash
-git clone https://github.com/SEU_USUARIO/subtitles-studio
-cd subtitles-studio
+git clone https://github.com/Thelimaf/reels-captions-kit
+cd reels-captions-kit
 pip install -r requirements.txt
 python cli.py --list-styles
 ```
@@ -102,4 +102,4 @@ Todo o detalhe (flags do CLI, projeto editável, SFX, regras de qualidade, como 
 
 Este projeto parte do [`NicolasCoder/subtitles_studio`](https://github.com/NicolasCoder/subtitles_studio) (motor Lockup e estilos originais). Os estilos novos, o projeto editável, a edição direta no Studio, a integração de b-rolls e as correções de render são adições posteriores. O repositório original não declara licença: antes de redistribuir publicamente, confirme com o autor e adicione um arquivo `LICENSE`.
 
-Efeitos sonoros em `sfx/` e fontes em `fonts/`: as fontes são do Google Fonts (licença OFL); confirme a origem e os direitos dos sons antes de distribuir.
+Os efeitos sonoros de `sfx/` são sintetizados (script `sfx/_gerar_sons.py`) e podem ser trocados por sons seus mantendo o nome do arquivo. As fontes de `fonts/` são do Google Fonts (licença OFL).

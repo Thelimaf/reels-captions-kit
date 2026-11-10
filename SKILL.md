@@ -11,6 +11,7 @@ Esta pasta é independente: `caption_kit/` (motor), `styles/` (estilos), `fonts/
 
 - **SK** = a pasta onde esta skill está instalada (`~/.claude/skills/subtitles-studio`; no Windows `%USERPROFILE%\.claude\skills\subtitles-studio`). Todos os comandos usam `python "$SK/cli.py"`; no shell, defina `SK` com o caminho real dessa pasta.
 - **Projetos** ficam em qualquer pasta passada em `--project` (caminho absoluto). Use uma pasta de projetos do usuário (chamada `$PROJ` abaixo) e guarde cópias antes de regenerar (`$PROJ/_versoes/<nome>/`).
+- **Repositório:** https://github.com/Thelimaf/reels-captions-kit (instalar com `git clone ... ~/.claude/skills/subtitles-studio`).
 - **Dependências:** Python 3.9+ com `pip install -r "$SK/requirements.txt"`, `ffmpeg`/`ffprobe` e Node (`npx hyperframes`). Confira com `python "$SK/cli.py" --list-styles`.
 - **Saídas de demonstração** (`--demo`, `--words` sem `--project`) vão para `./output/<estilo>`, na pasta onde o comando foi rodado.
 - **Novos estilos e melhorias:** crie arquivos em `$SK/styles/` (seção 4) ou ajuste `$SK/caption_kit/`.
